@@ -12,7 +12,9 @@ Types of Datatypes
 
   There are 7 primitive types.
 
-  (i)  
+  (i)  Number.
+       
+       :-
 
 
   2. Non-Primitive(Refernce) Datatypes
@@ -26,3 +28,13 @@ Types of Datatypes
              name: "Nilesh",
              age: 21
             };
+
+     (ii) Array(Type of Object)
+         :- Ordered list of values.
+
+         eg:- let fruits = ["apple", "banana", "mango"];
+
+     (iii) Function (Also Object)
+          :- function greet() {
+                return "Hello";
+            }
