@@ -1,0 +1,10 @@
+What is Datatypes in Javascript ?
+
+
+
+
+
+Types of Datatypes
+
+1. Primitive Datatypes
+
