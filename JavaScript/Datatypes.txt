@@ -18,3 +18,11 @@ Types of Datatypes
   2. Non-Primitive(Refernce) Datatypes
 
      These are Complex and mutable.
+
+     (i) Object
+        :- Collection of key-value Pairs.
+
+        eg:- let user = {
+             name: "Nilesh",
+             age: 21
+            };
