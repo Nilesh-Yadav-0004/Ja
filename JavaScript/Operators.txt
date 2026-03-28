@@ -1,0 +1,8 @@
+What is Operator?
+
+
+Types of Operators
+1.Arithmetic Operator.
+2.Logical Operator.
+3.Assignment Operator.
+4.
