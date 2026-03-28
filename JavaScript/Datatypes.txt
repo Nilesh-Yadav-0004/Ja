@@ -8,3 +8,13 @@ Types of Datatypes
 
 1. Primitive Datatypes
 
+  These are Basic, immutable Values.
+
+  There are 7 primitive types.
+
+  (i)  
+
+
+  2. Non-Primitive(Refernce) Datatypes
+
+     These are Complex and mutable.
