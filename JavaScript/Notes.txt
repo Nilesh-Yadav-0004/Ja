@@ -47,3 +47,14 @@ Example:
  # Types of Variables in JavaScript.
 
 JavaScript provides 3 ways to declare variables:
+
+1️⃣ var (Old method).
+
+Example:- 
+        var age = 20;
+
+* Function scoped.
+* Can be re-declared and updated.
+* Not recommended in modern JavaScript.
+
+
