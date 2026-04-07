@@ -38,3 +38,8 @@ Games and web applications.
 # What is a Variable?
 
 A variable is a container used to store data values in a program.
+
+Example:
+        let name = "Nilesh";
+
+ ** Here, name is a variable that stores the value "Nilesh" ** .
