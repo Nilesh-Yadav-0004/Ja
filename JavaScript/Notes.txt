@@ -43,3 +43,7 @@ Example:
         let name = "Nilesh";
 
  ** Here, name is a variable that stores the value "Nilesh" ** .
+
+ # Types of Variables in JavaScript.
+
+JavaScript provides 3 ways to declare variables:
