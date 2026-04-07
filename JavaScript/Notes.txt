@@ -75,3 +75,9 @@ Example:-
 *Cannot be updated or re-declared.
 *Must be initialized when declared.
 
+⚖️ Difference Between var, let, const
+Feature	var	let	const
+Scope	Function	Block	Block
+Re-declare	✅ Yes	❌ No	❌ No
+Update Value	✅ Yes	✅ Yes	❌ No
+Use Today	❌ Avoid	✅ Preferred	✅ Preferred
