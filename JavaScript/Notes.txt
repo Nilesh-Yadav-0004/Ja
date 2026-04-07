@@ -1,0 +1,27 @@
+Introduction of JavaScript.
+
+# JavaScript is a high-level, interpreted programming language mainly used to make websites interactive and dynamic.
+
+# It was created by Brendan Eich in 1995 and is one of the core technologies of web development along with HTML and CSS.
+
+IN SIMPLE DEFINITION:- JavaScript is a language that helps you add behavior and logic to web pages.
+
+Example:
+
+* Clicking a button.
+* Showing alerts.
+* Validating forms.
+* Updating content without reloading the page.
+
+Key Features of JavaScript
+🟢 Interpreted Language – Runs directly in the browser
+🟢 Dynamic Typing – No need to declare data types
+🟢 Event-Based – Responds to user actions
+🟢 Lightweight & Fast
+🟢 Object-Oriented – Uses objects and prototypes.
+
+# Why Learn JavaScript?
+It is essential for web development
+Huge demand for jobs (Frontend + Full Stack)
+Works with popular frameworks like React, Angular, Vue.
+
