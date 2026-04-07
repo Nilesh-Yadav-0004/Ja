@@ -66,4 +66,12 @@ Example:-
 *Can be updated.
 *Cannot be re-declared in the same scope.
 
+3️⃣ const (Constant values).
+
+Example:- 
+        const pi = 3.14;
+
+*Block scoped.
+*Cannot be updated or re-declared.
+*Must be initialized when declared.
 
