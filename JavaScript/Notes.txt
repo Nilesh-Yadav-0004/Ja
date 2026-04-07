@@ -21,7 +21,12 @@ Key Features of JavaScript
 🟢 Object-Oriented – Uses objects and prototypes.
 
 # Why Learn JavaScript?
-It is essential for web development
-Huge demand for jobs (Frontend + Full Stack)
+It is essential for web development.
+Huge demand for jobs (Frontend + Full Stack).
 Works with popular frameworks like React, Angular, Vue.
 
+# Where JavaScript is Used
+Frontend Development (in browser).
+Backend Development using Node.js
+Mobile apps (React Native)
+Games and web applications
