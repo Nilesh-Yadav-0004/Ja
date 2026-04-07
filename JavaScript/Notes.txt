@@ -81,3 +81,28 @@ Scope	Function	Block	Block
 Re-declare	✅ Yes	❌ No	❌ No
 Update Value	✅ Yes	✅ Yes	❌ No
 Use Today	❌ Avoid	✅ Preferred	✅ Preferred.
+
+🧠 Important Concepts
+🔹 Declaration vs Initialization
+let x;        // Declaration
+x = 10;       // Initialization
+
+# Naming Rules
+* Must start with letter, _ or $.
+* Cannot use keywords (like let, const).
+* Case-sensitive (name ≠ Name).
+
+Example
+let name = "Nilesh";
+let age = 21;
+const country = "India";
+
+console.log(name, age, country);
+
+;
+🚀 Pro Tip
+
+👉 Always use:
+
+let → when value may change
+const → when value should NOT change.
