@@ -28,5 +28,5 @@ Works with popular frameworks like React, Angular, Vue.
 # Where JavaScript is Used
 Frontend Development (in browser).
 Backend Development using Node.js.
-Mobile apps (React Native)
-Games and web applications
+Mobile apps (React Native).
+Games and web applications.
