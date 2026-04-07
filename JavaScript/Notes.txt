@@ -30,3 +30,11 @@ Frontend Development (in browser).
 Backend Development using Node.js.
 Mobile apps (React Native).
 Games and web applications.
+
+#  BASICS OF JavaScript.
+
+1. Variables 
+
+# What is a Variable?
+
+A variable is a container used to store data values in a program.
