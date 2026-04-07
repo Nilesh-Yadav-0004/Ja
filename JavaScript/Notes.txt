@@ -57,4 +57,13 @@ Example:-
 * Can be re-declared and updated.
 * Not recommended in modern JavaScript.
 
+2️⃣ let (Modern & Recommended).
+
+Example:- 
+        let city = "Mumbai";let city = "Mumbai";
+
+*Block scoped.
+*Can be updated.
+*Cannot be re-declared in the same scope.
+
 
