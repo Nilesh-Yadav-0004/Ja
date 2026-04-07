@@ -13,7 +13,7 @@ Example:
 * Validating forms.
 * Updating content without reloading the page.
 
-Key Features of JavaScript
+# Key Features of JavaScript
 🟢 Interpreted Language – Runs directly in the browser
 🟢 Dynamic Typing – No need to declare data types
 🟢 Event-Based – Responds to user actions
