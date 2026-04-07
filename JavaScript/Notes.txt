@@ -80,4 +80,4 @@ Feature	var	let	const
 Scope	Function	Block	Block
 Re-declare	✅ Yes	❌ No	❌ No
 Update Value	✅ Yes	✅ Yes	❌ No
-Use Today	❌ Avoid	✅ Preferred	✅ Preferred
+Use Today	❌ Avoid	✅ Preferred	✅ Preferred.
