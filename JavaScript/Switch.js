@@ -20,3 +20,14 @@ switch (option) {
     default:
         console.log(' please enter the value between 1 to 4 ');
 }
+
+/* 
+A user selects a drink:
+ :- C -> Coffee
+ :- T -> Tea
+ :- J -> Juice
+ :- W -> Water
+*/
+
+const drink = C;
+
