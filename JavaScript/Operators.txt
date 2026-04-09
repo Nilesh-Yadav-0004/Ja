@@ -7,3 +7,5 @@ Types of Operators
 3.Assignment Operator.
 4.Ternary Operator.
 5.Bitwise Operator.
+6.Comparison Operator.
+7.Increment & Decrement.
