@@ -5,4 +5,5 @@ Types of Operators
 1.Arithmetic Operator.
 2.Logical Operator.
 3.Assignment Operator.
-4.
+4.Ternary Operator.
+5.Bitwise Operator.
