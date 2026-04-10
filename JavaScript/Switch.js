@@ -31,3 +31,7 @@ A user selects a drink:
 
 const drink = C;
 
+switch(va){
+
+}
+
