@@ -13,3 +13,9 @@
 // Boolean 
 let isLoggedIn = true;
 console.log(isLoggedIn)
+
+// undefined
+
+
+// Null
+

@@ -106,3 +106,4 @@ console.log(name, age, country);
 
 let → when value may change
 const → when value should NOT change.
+
