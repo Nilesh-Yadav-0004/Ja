@@ -18,4 +18,8 @@ console.log(isLoggedIn)
 
 
 // Null
+// BigInt
+// Symbol
 
+
+/* Non  */
